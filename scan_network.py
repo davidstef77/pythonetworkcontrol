@@ -1,5 +1,4 @@
-# Verifica toate dispozitivele active pe rețeaua locală
-
+# Verifica toate dispozitivele active pe rețeaua locală 
 import subprocess
 
 def ping(host):

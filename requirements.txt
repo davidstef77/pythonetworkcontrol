@@ -1,0 +1,6 @@
+# Network Control System Dependencies - Windows Compatible
+flask==3.0.0
+flask-socketio==5.3.6
+speedtest-cli==2.1.3
+netaddr==0.9.0
+psutil==5.9.6
